@@ -15,3 +15,7 @@ Project Contents
     Development: Edit the index.html and styles.css files to customize the page to your needs. You can also add your own images to the images folder and update the paths in the HTML and CSS files.
 
     Deployment: Deploy your page on a web server or use hosting to publish it.
+
+# Result 
+
+![Result](https://raw.githubusercontent.com/Vadym6917012/halloween-landing-page/main/result.png)
