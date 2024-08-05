@@ -1,7 +1,7 @@
 # Halloween landing page
 
 This project is a Halloween-themed landing page created using a free Figma design and pure HTML/CSS. You can use this code as a basis to create your own Halloween page.
-Project Contents
+# Project Contents
 
     index.html: The main HTML file for the page.
     css/styles.css: CSS styles for page formatting.
